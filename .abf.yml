@@ -1,0 +1,4 @@
+sources:
+  qemu-static-arm: 95bad6268b2d2750e87594e88d3816997d4334d9
+  qemu-static-arm-binfmt: b6a661777e95121a094ee0c19d4a441dec408c79
+  qemu-wrapper: c7d3c49276269861d20b9834740e6ac96e184c67
