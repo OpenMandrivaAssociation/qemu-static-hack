@@ -1,7 +1,7 @@
 Summary:        Hack for ARM ABF builder
 Name:           qemu-static-hack
 Version:        1.4.0
-Release:        4
+Release:        5
 License:        GPLv2+
 Group:          Monitoring
 Url:            https://abf.rosalinux.ru
